@@ -1,5 +1,5 @@
 export 'state/state.dart';
 export 'theme.dart';
-export 'stream_agram.dart';
+export 'instagram.dart';
 export 'utils.dart';
 export 'navigation/navigation.dart';
